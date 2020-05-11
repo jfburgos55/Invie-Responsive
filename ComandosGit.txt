@@ -1,0 +1,12 @@
+** Comandos GIT **
+
+
+git init -> Inicia el repositorio.
+
+git status -> Validar el estado de los archivos.
+
+git add nameFile -> Agregar archivo al repositorio.
+
+git rm --cached -> Eliminar lo que esta en el repositorio temporal.
+
+git commit -m "Comentario" -> Agregar cambios al server.
