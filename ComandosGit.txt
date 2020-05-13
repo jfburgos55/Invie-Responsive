@@ -1,6 +1,6 @@
 ** Comandos GIT **
 
-	--Comandos Iniciales
+	--Comandos Iniciales--
 
 git init -> Inicia el repositorio.
 
@@ -15,7 +15,7 @@ git commit -m "Comentario" -> Agregar cambios al server.
 git commit --amend -> Agregando commit cuando no se cargan los archivos.
 
 
- -- Etiquetas para GIT
+	--Etiquetas para GIT--
 
 git tag -a 0.5 -m 'Version Estable del proyecto' -> Tag anotado.
 
@@ -25,7 +25,7 @@ git tag -d number -> Eliminar tag agregado por error.
 
 git tag -f -a number -m -> Renombrar tag.
 
-	--LOGS
+	--LOGS--
 
 git log --oneline -> Reduce la lectura de los commits.
 
