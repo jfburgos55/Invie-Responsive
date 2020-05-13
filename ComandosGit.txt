@@ -32,3 +32,8 @@ git log --oneline -> Reduce la lectura de los commits.
 git log --oneline --graph -> Manera grafica.
 
 git diff -> Comparar Cambios entre commits.
+
+git reset -> Reset a algun commit, hay tres tipos:
+			--soft -> 	Quita desde el repositorio.
+			--mixed ->	Quita desdel el repositorio y del staging 
+			--hard ->	Quita desdel el repositorio, del staging y del working directory.
