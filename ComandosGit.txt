@@ -46,7 +46,12 @@ git branch -l -> Listar ramas.
 
 git branch -m antiguoNombre nuevoNombre -> Renombrar ramas.
 
+<<<<<<< HEAD
 
 	--Combinar Ramas--
 
 git merge nombreRama -> Merge a la rama master.
+=======
+git checkout -b nombreRama -> Se cambia de rama al crearla.
+
+>>>>>>> nueva-imagen
