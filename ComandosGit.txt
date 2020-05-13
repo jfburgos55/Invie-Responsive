@@ -37,3 +37,11 @@ git reset -> Reset a algun commit, hay tres tipos:
 			--soft -> 	Quita desde el repositorio.
 			--mixed ->	Quita desdel el repositorio y del staging 
 			--hard ->	Quita desdel el repositorio, del staging y del working directory.
+
+	--RAMAS EN GIT--
+
+git branch nombreRama -> Crear rama.
+
+git branch -l -> Listar ramas.
+
+git branch -m antiguoNombre nuevoNombre -> Renombrar ramas.
