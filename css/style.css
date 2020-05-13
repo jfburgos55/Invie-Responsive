@@ -6,6 +6,7 @@ body{
 img{
 	max-width: 100%;
 	vertical-align: top;
+	/*display: none;*/
 }
 
 footer{
@@ -13,4 +14,14 @@ footer{
 	color: black;
 	font-size: large;
 	font-style: italic;
+}
+
+@media screen and (max-width: 768px) {
+	img#responsive{
+		display: block;
+	}
+}
+
+img#responsive{
+	display: none;
 }
