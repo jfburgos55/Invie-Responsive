@@ -45,3 +45,6 @@ git branch nombreRama -> Crear rama.
 git branch -l -> Listar ramas.
 
 git branch -m antiguoNombre nuevoNombre -> Renombrar ramas.
+
+git checkout -b nombreRama -> Se cambia de rama al crearla.
+
