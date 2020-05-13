@@ -45,3 +45,8 @@ git branch nombreRama -> Crear rama.
 git branch -l -> Listar ramas.
 
 git branch -m antiguoNombre nuevoNombre -> Renombrar ramas.
+
+
+	--Combinar Ramas--
+
+git merge nombreRama -> Merge a la rama master.
