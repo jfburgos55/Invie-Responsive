@@ -51,12 +51,8 @@ git branch -m antiguoNombre nuevoNombre -> Renombrar ramas.
 	--Combinar Ramas--
 
 git merge nombreRama -> Merge a la rama master.
-<<<<<<< Updated upstream
-=======
-git checkout -b nombreRama -> Se cambia de rama al crearla.
 
->>>>>>> nueva-imagen
-=======
+git checkout -b nombreRama -> Se cambia de rama al crearla.
 
 git checkout -b nombreRama -> Se cambia de rama al crearla.
 
@@ -64,6 +60,3 @@ git rebease -> Hacer lineal las combinaciones de las ramas.
 
 git stash -> Agregar cambios temporales en el local.
 
-
-
->>>>>>> Stashed changes
